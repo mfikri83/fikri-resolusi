@@ -1,5 +1,9 @@
 RENCANA BAND 
 - Mencari Personil
+  * Vokal
+  * Gitaris
+  * Drummmer
+  * Bassist
 - Membuat lagu 
 - Membuat album
 - Membuat EP
