@@ -4,7 +4,7 @@ RENCANA BAND
   * Gitaris
   * Drummmer
   * Bassist
+  * Keyboard
 - Membuat demo lagu 
 - Membuat lagu 
 - Membuat album
-- Membuat EP
