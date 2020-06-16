@@ -8,5 +8,4 @@ RENCANA BAND
 - Membuat demo lagu 
 - Membuat lagu 
 - Membuat album
-- Membuat EP
 - Mencari Label Musik
